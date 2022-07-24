@@ -1,0 +1,27 @@
+@CHARSET "ISO-8859-1";
+
+
+.butStyle{
+	transition: all 0.2s ease;
+	background-color:black;
+	color:white;
+	border:1px solid black;
+}
+.butStyle:hover{
+	color:black;
+	background-color:white;
+	border:1px solid black;
+}
+
+.inputClass{
+	width:300px;
+	border-radius:5px;
+	border:1px solid black;
+	height:36px;
+}
+
+a:hover{
+	color: black;
+    text-decoration: none;
+	
+}
