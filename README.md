@@ -25,6 +25,7 @@ Technologies used:
 
 #Flow Chart of Project
 
-![image](https://user-images.githubusercontent.com/88284160/180653430-a5001db8-5270-487a-89ca-71ad34ccf655.png)
+![image](https://user-images.githubusercontent.com/88284160/190997684-ed6437fa-e201-47e7-a46b-d65767fbf620.png)
+
 
 
