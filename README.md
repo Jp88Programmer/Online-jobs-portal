@@ -1,4 +1,4 @@
-# Online-jobs-portal
+# ONLINE-JOBS-PORTAL
 
 User can view job type,location,description and also status and the admin side , admin publish the jobs and also edit and delete existing jobs
 Also provide signIn page if user already resgister than user login and see jobs , profile dynamacially.
@@ -8,20 +8,20 @@ All the above operation to use simply CRUD operation in the database side implem
 
 # TECHNICAL DETAILS
 Technologies used:
-1.Front-End
-  a.HTML
-  b.CSS
-  c.Javascript
-  d.BOOTSTRAP
+1. Front-End <br/>
+  a. HTML  <br/>
+  b. CSS <br/>
+  c. Javascript <br/>
+  d. BOOTSTRAP <br/>
 
-2.BACKEND
-  a. JSP & JSP taglib
-  b. JAVA 8(version: 1.8.0)
-  c. Servlet
-  d. MySQL database (version: 8.0.27)
-  e. hibernate (version: 5.4.2.Final)
+2. BACKEND <br/>
+  a. JSP & JSP taglib <br/>
+  b. JAVA 8(version: 1.8.0) <br/>
+  c. Servlet <br/>
+  d. MySQL database (version: 8.0.27) <br/>
+  e. hibernate (version: 5.4.2.Final) <br/>
 
-3.Build Tool: Maven (version: 3.8.5)
+3.Build Tool: Maven (version: 3.8.5) <br/>
 
 #Flow Chart of Project
 
