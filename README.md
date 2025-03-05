@@ -5,6 +5,16 @@ Also provide signIn page if user already resgister than user login and see jobs 
 User and admin can be logout to side.simply all Small funcitality provide this the application
 All the above operation to use simply CRUD operation in the database side implementd by any language (Here use java) and show output form of markup and style
 
+# Flow Chart of Project
+
+![image](https://user-images.githubusercontent.com/88284160/190997684-ed6437fa-e201-47e7-a46b-d65767fbf620.png)
+
+# Preview
+
+![postJob](https://github.com/user-attachments/assets/aff8e3fa-6899-4c1c-8c36-f92b9fa82252)
+
+![userView](https://github.com/user-attachments/assets/1de19880-a651-4ae6-a5a4-1db908b06c3c)
+
 
 # TECHNICAL DETAILS
 Technologies used:
@@ -23,9 +33,7 @@ Technologies used:
 
 3.Build Tool: Maven (version: 3.8.5) <br/>
 
-#Flow Chart of Project
 
-![image](https://user-images.githubusercontent.com/88284160/190997684-ed6437fa-e201-47e7-a46b-d65767fbf620.png)
 
 
 
